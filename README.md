@@ -9,7 +9,7 @@
  I’m currently learning about **AI, ML, and microcontrollers**.  
  I enjoy joining **competitions** to challenge myself and learn new things. 
  
-- *🛠️ Tech & Tools I’m Learning*
+- ###🛠️ Tech & Tools I’m Learning###
 - **Languages**: Python, C/C++  
 - **AI/ML**: TensorFlow, PyTorch, YOLO  
 - **Microcontrollers**: Arduino, POP32i, ESP32, Raspberry Pi  
