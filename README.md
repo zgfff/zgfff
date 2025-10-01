@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Beam  
 
-<!--
-**zgfff/zgfff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm currently a high school student (M.6) who is passionate about **technology, AI, and microcontrollers**.  
+💡 I love exploring **AI & Machine Learning**, building projects, and improving myself through competitions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+ 
+- I’m currently learning about **AI, ML, and embedded systems**.  
+- I enjoy joining **competitions** to challenge myself and learn new things.  
+
+---
+
+## 🛠️ Tech & Tools I’m Learning
+- **Languages**: Python, C/C++  
+- **AI/ML**: TensorFlow, PyTorch, YOLO  
+- **Microcontrollers**: Arduino, ESP32, Raspberry Pi  
+
+## 📫 Connect with me
